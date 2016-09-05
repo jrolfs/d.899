@@ -32,7 +32,12 @@
     "keypress": "^0.2.1"
   },
   "engines": {
-    "node" : ">=6.5.0",
+    "node": ">=6.5.0",
     "npm": ">=3.10.7"
+  },
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb-base": "^5.0.3",
+    "eslint-plugin-import": "^1.14.0"
   }
 }
