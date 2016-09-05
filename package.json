@@ -4,6 +4,7 @@
   "description": "Node based key binding utility",
   "main": "index.js",
   "scripts": {
+    "develop": "babel-node src/javascript/index.js",
     "test": "echo \"TODO: write tests (-_-｡)\" && exit 1"
   },
   "repository": {
@@ -26,6 +27,12 @@
   },
   "homepage": "https://github.com/jrolfs/d.899#readme",
   "dependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-preset-node6": "^11.0.0",
     "keypress": "^0.2.1"
+  },
+  "engines": {
+    "node" : ">=6.5.0",
+    "npm": ">=3.10.7"
   }
 }
