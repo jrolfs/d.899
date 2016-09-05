@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/jrolfs/d.899/issues"
   },
-  "homepage": "https://github.com/jrolfs/d.899#readme"
+  "homepage": "https://github.com/jrolfs/d.899#readme",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  }
 }
