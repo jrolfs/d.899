@@ -1,4 +1,4 @@
-# <a href='https://github.com/jrolfs/d.899/'><img src='https://cloud.githubusercontent.com/assets/288160/18285590/f2202c00-7423-11e6-9604-5349f65a8842.png' height='180'></a>
+# <a href='https://github.com/jrolfs/d.899/'><img src='https://cloud.githubusercontent.com/assets/288160/18285941/74321716-7425-11e6-8b08-23c4ea48d55a.png' height='180'></a>
 
 d.899 is an Electron based key mapping utility. This is a work in progress, the
 initial use case is to attempt to regain my precious `fn` + `h` `j` `k` `l` vim
