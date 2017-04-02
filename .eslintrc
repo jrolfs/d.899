@@ -11,6 +11,8 @@
   },
   "rules": {
     "comma-dangle": ["error", "never"],
-    "react/jsx-filename-extension": 0
+    "react/jsx-filename-extension": 0,
+    "import/no-unresolved": [2, { "ignore": ["electron"] }],
+    "import/no-extraneous-dependencies": 0
   }
 }
